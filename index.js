@@ -13,3 +13,9 @@ function logShout(randString) {
 function logWhisper(randString) {
   console.log(randString.toLowerCase());
 }
+
+function sayHiToGrandma(randString) {
+  if (randString.toLowerCase() === randString) {
+    return "I can't hear you!";
+  }
+}
