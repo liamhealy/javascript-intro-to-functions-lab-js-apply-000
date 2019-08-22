@@ -19,7 +19,7 @@ function sayHiToGrandma(randString) {
     return "I can't hear you!";
   }
   else if (randString.toUpperCase() === randString) {
-    return "YES INDEED";
+    return "YES INDEED!";
   }
   else if (randString == "I love you, Grandma.") {
     return "I love you too."
