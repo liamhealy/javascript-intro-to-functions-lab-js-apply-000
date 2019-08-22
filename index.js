@@ -5,3 +5,7 @@ function shout(randString) {
 function whisper(randString) {
   return randString.toLowerCase();
 }
+
+function logShout(randString) {
+  console.log(randString.toUpperCase());
+}
