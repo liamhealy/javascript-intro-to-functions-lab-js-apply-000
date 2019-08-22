@@ -10,6 +10,6 @@ function logShout(randString) {
   console.log(randString.toUpperCase());
 }
 
-function logShout(randString) {
+function logWhisper(randString) {
   console.log(randString.toLowerCase());
 }
