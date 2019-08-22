@@ -9,3 +9,7 @@ function whisper(randString) {
 function logShout(randString) {
   console.log(randString.toUpperCase());
 }
+
+function logShout(randString) {
+  console.log(randString.toLowerCase());
+}
